@@ -10,11 +10,9 @@ GRID LAYOUT:
 
 DISPLAYED LIKE :
 
-## X | |
-
-## | O |
-
-| |
+X |   |
+  | O |
+  |   | X
 
 HOW TO PLAY :
 
